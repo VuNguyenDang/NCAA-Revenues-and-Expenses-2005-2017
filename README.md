@@ -1,6 +1,6 @@
 # NCAA-Revenues-and-Expenses-2005-2017
 Dashboard about Financials of NCAA member schools and are compiled to examine revenues and expenses at athletic departments throughout the NCAA
-### Link: [https://app.powerbi.com/view?r=eyJrIjoiMzAzZjVjMGQtNGE3Yy00YWFjLThiNzctZjlkYzAyYmY5ODg0IiwidCI6IjQ1MWFiYmZjLWU0NWMtNGQxMC1hZjk3LWZhNWIyMDE5YzViZiIsImMiOjN9&pageName=ReportSection](Revenues and Expenses Report 2005-2017)
+### Link: [https://app.powerbi.com/view?r=eyJrIjoiMzAzZjVjMGQtNGE3Yy00YWFjLThiNzctZjlkYzAyYmY5ODg0IiwidCI6IjQ1MWFiYmZjLWU0NWMtNGQxMC1hZjk3LWZhNWIyMDE5YzViZiIsImMiOjN9&pageName=ReportSection](Revenues-and-Expenses)
 
 
 ### Summary Report
